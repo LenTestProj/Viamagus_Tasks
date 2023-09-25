@@ -1,0 +1,3 @@
+1. Run the scripts in all the three tasks by running "npm start" in the terminal for each task.
+
+2. To run Task1, open Task1 folder in VSCode or whichever code editor and run "npm start". Do the same for the other two tasks.

@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  alignitems: center;
+  padding-top: 5rem;
+}
+
+.list {
+  padding: 1%;
+  list-style: none;
+  overflow: auto;
+  height: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+}
